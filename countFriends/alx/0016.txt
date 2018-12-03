@@ -1,0 +1,16 @@
+{
+  "eGroupStatus" : "1",
+  "groupID" : "0016",
+  "groupName" : "g_alx_0016",
+  "groupInfo" : {
+    "pre" : "alx"
+  },
+  "taskList" : [
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"0080\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0080\",\n  \"taskID\" : \"0080\",\n  \"createTime\" : \"2018-12-03 21:37:21\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"0081\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0081\",\n  \"taskID\" : \"0081\",\n  \"createTime\" : \"2018-12-03 21:37:21\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"0082\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0082\",\n  \"taskID\" : \"0082\",\n  \"createTime\" : \"2018-12-03 21:37:21\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"0083\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0083\",\n  \"taskID\" : \"0083\",\n  \"createTime\" : \"2018-12-03 21:37:21\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"0084\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0084\",\n  \"taskID\" : \"0084\",\n  \"createTime\" : \"2018-12-03 21:37:21\",\n  \"eTaskStatus\" : \"1\"\n}"
+  ],
+  "createTime" : "2018-12-03 21:37:21"
+}
